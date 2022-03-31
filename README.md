@@ -3,7 +3,7 @@
 
 ## Status
 
-Can boot into UEFI Shell this only what I tested
+Can boot into UEFI Shell this only what I tested.
 
 ## Working
 
@@ -11,7 +11,7 @@ Display
 
 ## Not Working
 
-everything expect Display for some reason
+everything expect Display for some reason.
 
 ## Dependencies
 
@@ -47,8 +47,8 @@ cd edk2-tucana
 ./build.sh
 ```
 
-And finally you can now boot the Image or flash the image to `boot` or `recovery`
-By flashing the Image to `recovery` you get "Dual-boot"
+And finally you can now boot the Image or flash the image to `boot` or `recovery`.
+By flashing the Image to `recovery` you get "Dual-boot".
 
 ```bash
 fastboot boot uefi-tucana.img
