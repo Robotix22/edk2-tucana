@@ -44,6 +44,7 @@ Now you can build the UEFI Image by doing
 
 ```bash
 cd edk2-tucana
+./firstrun.sh
 ./build.sh
 ```
 
