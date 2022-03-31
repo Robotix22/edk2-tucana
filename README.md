@@ -52,9 +52,9 @@ And finally you can now boot the Image or flash the image to `boot` or `recovery
 By flashing the Image to `recovery` you get "Dual-boot".
 
 ```bash
-fastboot boot uefi-tucana.img
-fastboot flash boot uefi-tucana.img
-fastboot flash recovery uefi-tucana.img
+fastboot boot uefi.img
+fastboot flash boot uefi.img
+fastboot flash recovery uefi.img
 ```
 
 ## Credits
