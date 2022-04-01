@@ -37,7 +37,7 @@ You should have all three directories side by side.
 Now Install needed Packages
 
 ```bash
-sudo apt install build-essential uuid-dev iasl git nasm gcc-aarch64-linux-gnu abootimg python3-distutils python3-pil python3-git gettext
+sudo apt install build-essential uuid-dev iasl git nasm gcc-aarch64-linux-gnu abootimg python3-distutils gettext
 ```
 
 Now you can build the UEFI Image by doing
