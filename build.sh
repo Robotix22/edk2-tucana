@@ -11,4 +11,4 @@ rm -rf workspace/Build/tucanaPkg/DEBUG_GCC5/FV/Ffs/7E374E25-8E01-4FEE-87F2-390C2
 GCC5_AARCH64_PREFIX=aarch64-linux-gnu- build -s -n 0 -a AARCH64 -t GCC5 -p tucanaPkg/tucanaPkg.dsc
 gzip -c < Build/tucanaPkg/DEBUG_GCC5/FV/TUCANAPKG_UEFI.fd >uefi_image
 cat tucana.dtb >>uefi_image
-abootimg --create uefi.img -k uefi_image -r ramdisk-null -f bootimg.cfg
+abootimg --create uefi-tucana.img -k uefi_image -r ramdisk-null -f bootimg.cfg
