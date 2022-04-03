@@ -13,16 +13,6 @@ Display
 
 everything expect Display for some reason.
 
-## Dependencies
-
-For Debian and Ubuntu:
-
-```bash
-sudo apt update
-sudo apt upgrade
-sudo apt install build-essential uuid-dev iasl git nasm gcc-aarch64-linux-gnu abootimg python3-distutils python3-pil python3-git gettext
-```
-
 ## Building
 
 You need to clone these repositories 
@@ -35,6 +25,8 @@ git clone https://github.com/tianocore/edk2-platforms.git
 You should have all three directories side by side.
 
 Now Install needed Packages
+
+For Debian and Ubuntu:
 
 ```bash
 sudo apt install build-essential uuid-dev iasl git nasm gcc-aarch64-linux-gnu abootimg python3-distutils gettext
