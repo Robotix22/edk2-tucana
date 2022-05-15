@@ -11,7 +11,8 @@ Display
 
 ## Not Working
 
-everything expect Display for some reason.
+USB
+...
 
 ## Building
 
