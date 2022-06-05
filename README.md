@@ -54,5 +54,5 @@ fastboot flash recovery uefi-tucana.img
 
 ## Credits
 
-This is based on `Idonotkno,s` `edk2-sm7150`.
+This is based on `sunflower2333,s` `edk2-sm7150`.
 
