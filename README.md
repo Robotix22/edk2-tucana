@@ -1,6 +1,9 @@
 # EDK2 UEFI Firmware For Mi Note 10
 (My Mi Note 10 is right now broken so I can't test my builds)
 
+## Resources
+
+[Discord Server](https://discord.gg/Gb4KAqAQdm)
 
 ## Status
 
