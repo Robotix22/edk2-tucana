@@ -1,5 +1,5 @@
 # EDK2 UEFI Firmware For Mi Note 10
-(My Mi Note 10 is right now broken so I need a tester)
+(My Mi Note 10 is broken right now so I need a tester for Mi Note 10, please contact me on discord)
 
 ## Resources
 
@@ -11,11 +11,11 @@ Can boot into UEFI Shell this only what I tested.
 
 ## Working
 
-Display
+- Display
 
 ## Not Working
 
-USB
+- USB
 
 ...
 
